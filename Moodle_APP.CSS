@@ -1,0 +1,7 @@
+
+ion-app.app-root.md core-course-module .item.core-course-module-handler .core-module-icon{
+display:none;}
+
+ion-item#core-course-module-22:before{
+content:'\e04c';
+font-family:"simple-line-icons";}
