@@ -3,4 +3,5 @@ ion-app.app-root.md core-course-module .item.core-course-module-handler .core-mo
 display:none;}
 
 ion-item#core-course-module-22:before{
-content:'\f113';}
+content:'\f113';
+font-family:Ionicons;}
