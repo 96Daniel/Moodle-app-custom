@@ -1,18 +1,6 @@
-@font-face {
-	font-family: 'Simple-Line-Icons';
-	src:url('<%= font_path('Simple-Line-Icons.eot') %>?v=2.4.0');
-	src:url('<%= font_path('Simple-Line-Icons.eot') %>?v=2.4.0#iefix') format('embedded-opentype'),
-		url('<%= font_path('Simple-Line-Icons.ttf') %>?v=2.4.0') format('truetype'),
-		url('<%= font_path('Simple-Line-Icons.woff') %>?v=2.4.0') format('woff'),
-		url('<%= font_path('Simple-Line-Icons.woff2') %>?v=2.4.0') format('woff2'),
-		url('<%= font_path('Simple-Line-Icons.svg') %>#Simple-Line-Icons?v=2.4.0') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 
 ion-app.app-root.md core-course-module .item.core-course-module-handler .core-module-icon{
 display:none;}
 
 ion-item#core-course-module-22:before{
-content:'\f113';
-font-family:"simple-line-icons";}
+content:'\f113';}
