@@ -47,7 +47,13 @@ color:#000;}
 .ion-ios-search:before{
 color:#000;}
 
-.bar-button::after{
+.ion-md-search:before{
+color:#000;}
+
+.ion-ios-more:before{
+color:#000;}
+
+.ion-md-more:before{
 color:#000;}
 
 /*header*/
