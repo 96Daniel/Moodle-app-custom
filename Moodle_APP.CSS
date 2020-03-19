@@ -35,7 +35,7 @@ color:#000!important;}
 .toolbar-title-ios{
 color:#000!important;}
 
-[dir=ltr] .back-button-ios{
+.back-button-ios{
 color:#000!important;}
 
 .ion-ios-arrow-back:before{
@@ -43,4 +43,11 @@ color:#000;}
 
 .ion-md-arrow-back:before{
 color:#000;}
+
+.ion-ios-search:before{
+color:#000;}
+
+.bar-button::after{
+color:#000;}
+
 /*header*/
