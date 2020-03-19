@@ -1,9 +1,10 @@
 
-ion-app.app-root.md core-course-module .item.core-course-module-handler .core-module-icon{
-display:none;}
 
-ion-app.app-root.ios core-course-module .item.core-course-module-handler .core-module-icon{
-display:none;}
+ion-item#core-course-module-22 img{
+display:none!important;}
+
+ion-item#core-course-module-33 img{
+display:none!important;}
 
 ion-item#core-course-module-22:before{
 content:'\f29e';
