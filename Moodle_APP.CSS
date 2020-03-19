@@ -5,12 +5,16 @@ display:none;}
 ion-item#core-course-module-22:before{
 content:'\f29e';
 font-family:Ionicons;
-font-size:1.8em;}
+font-size:1.8em;
+display:inline-block;
+text-align:center;}
 
 ion-item#core-course-module-33:before{
 content:'\f306';
 font-family:Ionicons;
-font-size:1.8em;}
+font-size:1.8em;
+display:inline-block;
+text-align:center;}
 
 body.scheme-auto ion-app.app-root core-course-module .item.core-course-module-handler{
 align-items:center;}
