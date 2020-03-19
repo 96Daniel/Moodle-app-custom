@@ -11,3 +11,6 @@ ion-item#core-course-module-33:before{
 content:'\f29e';
 font-family:Ionicons;
 font-size:1.8em;}
+
+body.scheme-auto ion-app.app-root core-course-module .item.core-course-module-handler{
+align-items:center;}
