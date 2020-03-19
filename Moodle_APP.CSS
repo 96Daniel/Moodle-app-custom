@@ -16,5 +16,4 @@ font-size:1.8em;
 display:inline-block;
 text-align:center;}
 
-body.scheme-auto ion-app.app-root core-course-module .item.core-course-module-handler{
-align-items:center;}
+body.scheme-auto ion-app.app-root core-course-module .item.core-course-module-handler{}
