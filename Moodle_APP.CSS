@@ -81,3 +81,15 @@ color:#000!important;}
 .item-divider-ios{
 color:#000!important;}
 /*sec-header*/
+
+/*footer*/
+
+.tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
+color:#fc4a1a!important;}
+
+.tabs-md .tab-button[aria-selected=true] .tab-button-icon{
+color:#fc4a1a!important;}
+
+
+
+/*footer*/
