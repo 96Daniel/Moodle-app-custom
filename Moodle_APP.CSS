@@ -115,4 +115,8 @@ color:#000;}
 .ion-md-add:before{
 color:#000;}
 
+ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
+background-color:#ffc530!important;
+color:#000!important;}
+
 /*calendario*/
