@@ -35,31 +35,31 @@ color:#000!important;}
 .toolbar-title-ios{
 color:#000!important;}
 
-body.scheme-light.back-button-ios{
+body.scheme-light .back-button-ios{
 color:#000!important;}
 
-body.scheme-light.ion-ios-arrow-back:before{
+body.scheme-light .ion-ios-arrow-back:before{
 color:#000;}
 
-body.scheme-light.ion-md-arrow-back:before{
+body.scheme-light .ion-md-arrow-back:before{
 color:#000;}
 
-body.scheme-light.ion-ios-arrow-forward:before{
+body.scheme-light .ion-ios-arrow-forward:before{
 color:#000;}
 
-body.scheme-light.ion-ios-search:before{
+body.scheme-light .ion-ios-search:before{
 color:#000;}
 
-body.scheme-light.ion-md-search:before{
+body.scheme-light .ion-md-search:before{
 color:#000;}
 
-body.scheme-light.ion-ios-more:before{
+body.scheme-light .ion-ios-more:before{
 color:#000;}
 
-body.scheme-light.ion-md-more:before{
+body.scheme-light .ion-md-more:before{
 color:#000;}
 
-body.scheme-light.ion-md-information-circle:before{
+body.scheme-light .ion-md-information-circle:before{
 color:#000;}
 
 /*main-header*/
@@ -106,13 +106,13 @@ color:#ffc530!important;}
 body.scheme-light.fab-md{
 background-color:#ffc530!important;}
 
-body.scheme-light.fab-ios{
+body.scheme-light .fab-ios{
 background-color:#ffc530!important;}
 
-body.scheme-light.ion-ios-add:before{
+body.scheme-light .ion-ios-add:before{
 color:#000;}
 
-body.scheme-light.ion-md-add:before{
+body.scheme-light .ion-md-add:before{
 color:#000;}
 
 body.scheme-light ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
