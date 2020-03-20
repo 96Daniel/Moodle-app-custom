@@ -74,4 +74,10 @@ filter:brightness(0);}
 
 [dir=ltr] a.item-ios:not([detail-none]) .item-inner{
 filter:brightness(0);}
+
+.item-divider-md{
+color:#000!important;}
+
+.item-divider-ios{
+color:#000!important;}
 /*sec-header*/
