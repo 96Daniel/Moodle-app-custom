@@ -69,5 +69,9 @@ ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true]{
 color:#fc4a1a!important;
 border-bottom-color:#fc4a1a!important;}
 
+[dir=ltr] a.item-md:not([detail-none]) .item-inner{
+filter:brightness(0);}
 
+[dir=ltr] a.item-ios:not([detail-none]) .item-inner{
+filter:brightness(0);}
 /*sec-header*/
