@@ -72,10 +72,10 @@ body.scheme-light ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true]
 color:#fc4a1a!important;
 border-bottom-color:#fc4a1a!important;}
 
-body.scheme-light[dir=ltr] a.item-md:not([detail-none]) .item-inner{
+[dir=ltr]body.scheme-light a.item-md:not([detail-none]) .item-inner{
 filter:brightness(0);}
 
-body.scheme-light[dir=ltr] a.item-ios:not([detail-none]) .item-inner{
+[dir=ltr]body.scheme-light a.item-ios:not([detail-none]) .item-inner{
 filter:brightness(0);}
 
 body.scheme-light .item-divider-md{
