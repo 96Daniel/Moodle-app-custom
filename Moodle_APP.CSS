@@ -109,5 +109,10 @@ background-color:#ffc530!important;}
 .fab-ios{
 background-color:#ffc530!important;}
 
+.ion-ios-add:before{
+color:#000;}
+
+.ion-md-add:before{
+color:#000;}
 
 /*calendario*/
