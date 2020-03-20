@@ -22,7 +22,7 @@ display:inline-block;
 text-align:center;
 padding:9px 0px;}
 
-/*header*/
+/*main-header*/
 .toolbar-background-md{
 background-color:#ffc530!important;}
 
@@ -59,4 +59,11 @@ color:#000;}
 .ion-md-information-circle:before{
 color:#000;}
 
-/*header*/
+/*main-header*/
+
+/*sec-header*/
+ion-app.app-root .core-tabs-bar .tab-slide{
+color:#000!important}
+
+
+/*sec-header*/
