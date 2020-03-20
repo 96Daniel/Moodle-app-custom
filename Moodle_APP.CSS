@@ -35,87 +35,87 @@ color:#000!important;}
 .toolbar-title-ios{
 color:#000!important;}
 
-.back-button-ios{
+body.scheme-light.back-button-ios{
 color:#000!important;}
 
-.ion-ios-arrow-back:before{
+body.scheme-light.ion-ios-arrow-back:before{
 color:#000;}
 
-.ion-md-arrow-back:before{
+body.scheme-light.ion-md-arrow-back:before{
 color:#000;}
 
-.ion-ios-arrow-forward:before{
+body.scheme-light.ion-ios-arrow-forward:before{
 color:#000;}
 
-.ion-ios-search:before{
+body.scheme-light.ion-ios-search:before{
 color:#000;}
 
-.ion-md-search:before{
+body.scheme-light.ion-md-search:before{
 color:#000;}
 
-.ion-ios-more:before{
+body.scheme-light.ion-ios-more:before{
 color:#000;}
 
-.ion-md-more:before{
+body.scheme-light.ion-md-more:before{
 color:#000;}
 
-.ion-md-information-circle:before{
+body.scheme-light.ion-md-information-circle:before{
 color:#000;}
 
 /*main-header*/
 
 /*sec-header*/
-ion-app.app-root .core-tabs-bar .tab-slide{
+body.scheme-light ion-app.app-root .core-tabs-bar .tab-slide{
 color:#000!important}
 
-ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true]{
+body.scheme-light ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true]{
 color:#fc4a1a!important;
 border-bottom-color:#fc4a1a!important;}
 
-[dir=ltr] a.item-md:not([detail-none]) .item-inner{
+body.scheme-light [dir=ltr] a.item-md:not([detail-none]) .item-inner{
 filter:brightness(0);}
 
-[dir=ltr] a.item-ios:not([detail-none]) .item-inner{
+body.scheme-light [dir=ltr] a.item-ios:not([detail-none]) .item-inner{
 filter:brightness(0);}
 
-.item-divider-md{
+body.scheme-light .item-divider-md{
 color:#000!important;}
 
-.item-divider-ios{
+body.scheme-light .item-divider-ios{
 color:#000!important;}
 
-.bar-button-default-ios{
+body.scheme-light .bar-button-default-ios{
 color:#000!important;}
 
-.bar-button-default-md{
+body.scheme-light .bar-button-default-md{
 color:#000!important;}
 
 /*sec-header*/
 
 /*footer*/
 
-.tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
+body.scheme-light .tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
 color:#ffc530!important;}
 
-.tabs-md .tab-button[aria-selected=true] .tab-button-icon{
+body.scheme-light .tabs-md .tab-button[aria-selected=true] .tab-button-icon{
 color:#ffc530!important;}
 
 /*footer*/
 
 /*calendario*/
-.fab-md{
+body.scheme-light.fab-md{
 background-color:#ffc530!important;}
 
-.fab-ios{
+body.scheme-light.fab-ios{
 background-color:#ffc530!important;}
 
-.ion-ios-add:before{
+body.scheme-light.ion-ios-add:before{
 color:#000;}
 
-.ion-md-add:before{
+body.scheme-light.ion-md-add:before{
 color:#000;}
 
-ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
+body.scheme-light ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
 background-color:#ffc530!important;
 color:#000!important;}
 
