@@ -65,5 +65,9 @@ color:#000;}
 ion-app.app-root .core-tabs-bar .tab-slide{
 color:#000!important}
 
+ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true]{
+color:#fc4a1a!important;
+border-bottom-color:#fc4a1a!important;}
+
 
 /*sec-header*/
