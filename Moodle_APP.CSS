@@ -191,10 +191,10 @@ font-weight:800;}
 
 body.scheme-dark ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
 background-color:#ffc530!important;
-color:#fff!important;}
+color:#000!important;}
 
 body.scheme-light ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
 background-color:#fc4a1a!important;
-color:#000!important;}
+color:#fff!important;}
 
 /*calendario*/
