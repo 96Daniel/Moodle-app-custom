@@ -82,6 +82,12 @@ color:#000;}
 body.scheme-light .ion-ios-arrow-forward:before{
 color:#000;}
 
+body.scheme-dark .ion-ios-arrow-forward:before{
+color:#fff;}
+
+
+
+
 body.scheme-light .ion-ios-search:before{
 color:#000;}
 
