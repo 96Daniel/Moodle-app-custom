@@ -23,16 +23,16 @@ text-align:center;
 padding:9px 0px;}
 
 /*main-header*/
-body.scheme-light .toolbar-background-md{
-background-color:#ffc530!important;}
-
-body.scheme-light .toolbar-background-ios{
-background-color:#ffc530!important;}
-
 body.scheme-dark .toolbar-background-md{
-background-color:#fc4a1a!important;}
+background-color:#ffc530!important;}
 
 body.scheme-dark .toolbar-background-ios{
+background-color:#ffc530!important;}
+
+body.scheme-light .toolbar-background-md{
+background-color:#fc4a1a!important;}
+
+body.scheme-light .toolbar-background-ios{
 background-color:#fc4a1a!important;}
 
 
