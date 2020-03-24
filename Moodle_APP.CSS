@@ -23,16 +23,16 @@ text-align:center;
 padding:9px 0px;}
 
 /*main-header*/
-.toolbar-background-md{
+body.scheme-light .toolbar-background-md{
 background-color:#ffc530!important;}
 
-.toolbar-background-ios{
+body.scheme-light .toolbar-background-ios{
 background-color:#ffc530!important;}
 
-.toolbar-title-md{
+body.scheme-light .toolbar-title-md{
 color:#000!important;}
 
-.toolbar-title-ios{
+body.scheme-light .toolbar-title-ios{
 color:#000!important;}
 
 body.scheme-light .back-button-ios{
