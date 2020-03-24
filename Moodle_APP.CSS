@@ -38,14 +38,28 @@ background-color:#fc4a1a!important;}
 
 
 
+
 body.scheme-light .toolbar-title-md{
-color:#000!important;}
+color:#fff!important;}
 
 body.scheme-light .toolbar-title-ios{
+color:#fff!important;}
+
+body.scheme-dark .toolbar-title-md{
 color:#000!important;}
 
-body.scheme-light .back-button-ios{
+body.scheme-dark .toolbar-title-ios{
 color:#000!important;}
+
+
+
+body.scheme-light .back-button-ios{
+color:#fff!important;}
+
+body.scheme-dark .back-button-ios{
+color:#000!important;}
+
+
 
 body.scheme-light .ion-ios-arrow-back:before{
 color:#000;}
