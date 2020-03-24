@@ -124,12 +124,33 @@ background-color:#ffc530!important;}
 body.scheme-light .fab-ios{
 background-color:#ffc530!important;}
 
+body.scheme-dark .fab-md{
+background-color:#ffc530!important;}
+
+body.scheme-dark .fab-ios{
+background-color:#ffc530!important;}
+
+
+
 body.scheme-light .ion-ios-add:before{
 color:#000;
 font-weight:800;}
 
 body.scheme-light .ion-md-add:before{
-color:#000;}
+color:#000;
+font-weight:800;}
+
+body.scheme-dark .ion-ios-add:before{
+color:#fff;
+font-weight:800;}
+
+body.scheme-dark .ion-md-add:before{
+color:#fff;
+font-weight:800;}
+
+
+
+
 
 body.scheme-light ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
 background-color:#ffc530!important;
