@@ -109,6 +109,12 @@ color:#ffc530!important;}
 body.scheme-light .tabs-md .tab-button[aria-selected=true] .tab-button-icon{
 color:#ffc530!important;}
 
+body.scheme-dark .tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
+color:#fc4a1a!important;}
+
+body.scheme-dark .tabs-md .tab-button[aria-selected=true] .tab-button-icon{
+color:#fc4a1a!important;}
+
 /*footer*/
 
 /*calendario*/
