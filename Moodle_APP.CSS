@@ -69,9 +69,13 @@ color:#000;}
 
 body.scheme-dark .ion-ios-arrow-back:before{
 color:#fff;}
+body.scheme-dark .header.ion-ios-arrow-back:before{
+color:#000;}
 
 body.scheme-dark .ion-md-arrow-back:before{
 color:#fff;}
+body.scheme-dark .header.ion-md-arrow-back:before{
+color:#000;}
 
 
 
