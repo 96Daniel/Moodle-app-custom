@@ -103,48 +103,48 @@ color:#000!important;}
 
 /*footer*/
 
-body.scheme-light .tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
-color:#ffc530!important;}
-
-body.scheme-light .tabs-md .tab-button[aria-selected=true] .tab-button-icon{
-color:#ffc530!important;}
-
 body.scheme-dark .tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
-color:#fc4a1a!important;}
+color:#ffc530!important;}
 
 body.scheme-dark .tabs-md .tab-button[aria-selected=true] .tab-button-icon{
+color:#ffc530!important;}
+
+body.scheme-light .tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
+color:#fc4a1a!important;}
+
+body.scheme-light .tabs-md .tab-button[aria-selected=true] .tab-button-icon{
 color:#fc4a1a!important;}
 
 /*footer*/
 
 /*calendario*/
-body.scheme-light .fab-md{
-background-color:#ffc530!important;}
-
-body.scheme-light .fab-ios{
-background-color:#ffc530!important;}
-
 body.scheme-dark .fab-md{
-background-color:#fc4a1a!important;}
+background-color:#ffc530!important;}
 
 body.scheme-dark .fab-ios{
+background-color:#ffc530!important;}
+
+body.scheme-light .fab-md{
+background-color:#fc4a1a!important;}
+
+body.scheme-light .fab-ios{
 background-color:#fc4a1a!important;}
 
 
 
-body.scheme-light .ion-ios-add:before{
-color:#000;
-font-weight:800;}
-
-body.scheme-light .ion-md-add:before{
-color:#000;
-font-weight:800;}
-
 body.scheme-dark .ion-ios-add:before{
-color:#fff;
+color:#000;
 font-weight:800;}
 
 body.scheme-dark .ion-md-add:before{
+color:#000;
+font-weight:800;}
+
+body.scheme-light .ion-ios-add:before{
+color:#fff;
+font-weight:800;}
+
+body.scheme-light .ion-md-add:before{
 color:#fff;
 font-weight:800;}
 
@@ -152,8 +152,12 @@ font-weight:800;}
 
 
 
-body.scheme-light ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
+body.scheme-dark ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
 background-color:#ffc530!important;
 color:#000!important;}
+
+body.scheme-light ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span{
+background-color:#fc4a1a!important;
+color:#fff!important;}
 
 /*calendario*/
