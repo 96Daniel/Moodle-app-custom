@@ -94,16 +94,16 @@ color:#fff;}
 
 
 
-body.scheme-light .ion-ios-search:before{
+body.scheme-light .header .ion-ios-search:before{
 color:#fff;}
 
-body.scheme-light .ion-md-search:before{
+body.scheme-light .header .ion-md-search:before{
 color:#fff;}
 
-body.scheme-dark .ion-ios-search:before{
+body.scheme-dark .header .ion-ios-search:before{
 color:#000;}
 
-body.scheme-dark .ion-md-search:before{
+body.scheme-dark .header .ion-md-search:before{
 color:#000;}
 
 
