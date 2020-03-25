@@ -116,13 +116,17 @@ color:#000!important;}
 
 
 
+body.scheme-light .ion-ios-cog:before{
+color:#fff!important;}
+
+body.scheme-light .ion-md-cog:before{
+color:#fff!important;}
 
 body.scheme-dark .ion-ios-cog:before{
 color:#000!important;}
 
-body.scheme-light .ion-ios-cog:before{
-color:#fff!important;}
-
+body.scheme-dark .ion-md-cog:before{
+color:#000!important;}
 
 
 
