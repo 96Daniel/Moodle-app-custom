@@ -182,6 +182,18 @@ color:#000!important;}
 
 /*sec-header*/
 
+/*corpo*/
+
+body.scheme-light .ion-ios-sync:before{
+color:#fc4a1a;}
+
+body.scheme-dark .ion-ios-sync:before{
+color:#ffc530;}
+
+
+
+/*corpo*/
+
 /*footer*/
 
 body.scheme-dark .tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
